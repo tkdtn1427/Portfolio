@@ -10,17 +10,17 @@
 - 새로운 기술들을 익히는 것을 좋아하며, 이에 대한 기술적 토론을 하는것을 좋아합니다.
 </br>
 
-## pushpin: Contact
+## :pushpin: Contact
 - 📧 E-mail: tkdtn1427@gmail.com
 - 😍 Github: [https://github.com/tkdtn1427](https://github.com/tkdtn1427)
 - 🏠 Blog:  [https://velog.io/@tkdtn1427](https://velog.io/@tkdtn1427)
 
 </br>
 
-## :pushpin: Projects
-### 1. [goQuality](https://github.com/Integerous/goQuality)
->고퀄리티 개발 컨텐츠 공유 서비스 (개인 프로젝트)  
->개발 기간: 2019.2.18 ~ 2019.4.5  
+## 💻 Projects
+### 1. [온라딩 코딩 과외매칭 서비스](https://github.com/tkdtn1427/Team29_Online-Coding-Tutoring-Match)
+>첫 번째 프로젝트 간략 소개 (팀 프로젝트)  
+>개발 기간: 2022.09.07 - 2022.10.12
 >  
 >기술 스택:  
 >Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
@@ -29,13 +29,13 @@
 >[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
 ---
 
-### 2. [두 번째 프로젝트]()
+### 2. [보행장애인을 위한 자율주행 캐리어]()
 >두 번째 프로젝트 간략 소개  (팀 프로젝트)  
->개발 기간: 2020.7.18 ~ 2020.11.5  
+>개발 기간: 2021.03.01 - 2021.06.13  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+> 
+>
 >  
 >[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
 ---
