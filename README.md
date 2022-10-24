@@ -1,9 +1,8 @@
-# 개발자 이상수 Portpolio
+# 👨‍💻 개발자 이상수 Portpolio
 >Hand 아닌 Head로 개발하는 개발자
 </br>
 
 ## :pushpin: 🙆‍♂️Introduce
-(여기에 자기 소개)
 - 단순히 코드를 치는 Coder가 아닌 파고들어 분석하는 개발자가 되고자 합니다.
 - 대면한 문제점에 대하여 단순 해결책이 아닌 원인과 해결과정을 분석하고 이해하려 합니다.
 - ‘1’의 Input에 대하여 ‘10’이상의 성과를 내고자 노력합니다.
@@ -12,9 +11,9 @@
 </br>
 
 ## :pushpin: Contact
-- 이메일: rhep0828@gmail.com
-- 블로그: https://ryan-han.com
-- 깃헙: https://github.com/integerous
+- 📧 E-mail: tkdtn1427@gmail.com
+- 😍 Github: [https://github.com/tkdtn1427](https://github.com/tkdtn1427)
+- 🏠 Blog:  [https://velog.io/@tkdtn1427](https://velog.io/@tkdtn1427)
 
 </br>
 
